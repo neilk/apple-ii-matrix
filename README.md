@@ -1,5 +1,4 @@
-apple-ii-matrix
-===============
+# apple-ii-matrix
 
 A BASIC program that produces a Matrix-like display on Apple II computers.
 
@@ -8,8 +7,7 @@ type in the lines as shown. There is no text editor; simply typing in a line pre
 adds it to the program buffer. Then type RUN.
 
 
-history and sightings
-=====================
+## history and sightings
 
 I first created at Vancouver Mini Maker Faire, in June 2012. I saw an old Apple II running a lacklustre demo and I decided
 to bust out some quarter-century old skills. The owner of the machine graciously let me use it for a half hour or so, and
