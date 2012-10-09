@@ -21,4 +21,5 @@ Next, I saw an Apple II at Panic Software in Portland, during the XOXO Festival 
 type it in. It's been photographed by a number of people since then, including Scott Beale of Laughing Squid:
 
 http://www.flickr.com/photos/laughingsquid/8047518696/
+
 http://instagram.com/p/QSVgQkAT6H/
