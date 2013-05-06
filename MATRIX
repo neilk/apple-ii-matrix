@@ -14,7 +14,7 @@
  35 NEXT C
  39 GOTO 20
  50 REM  RESET
- 51 K(C,H) =  INT ( RND (1) * 40)
+ 51 K(C,H) =  INT ( RND (1) * 40) + 1
  52 K(C,V) = 0
  53 K(C,F) =  INT ( RND (1) * 2)
  99  RETURN
