@@ -1,4 +1,6 @@
  1 REM THE MATRIX
+ 2 REM BY NEIL KANDALGAONKAR <NEILK@NEILK.NET>
+ 3 REM https://github.com/neilk/apple-ii-matrix/
  5 FOR I = 1 TO 30: PRINT " ": NEXT I
  10 DIM K(3,2)
  11 H = 0
