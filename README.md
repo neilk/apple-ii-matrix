@@ -2,10 +2,12 @@
 
 A BASIC program that produces a Matrix-like display on Apple II computers.
 
-To get this running on your machine, you need to get to the Apple's BASIC prompt, and then
+If you don't have an old Apple machine or emulator handy, try pasting the source in Joshua Bell's
+[Applesoft BASIC in Javascript](http://www.calormen.com/applesoft/).
+
+If you do have an Apple or emulator, you need to get to the Apple's BASIC prompt, and then
 type in the lines as shown. There is no text editor; simply typing in a line preceded by a number
 adds it to the program buffer. Then type RUN.
-
 
 ## history and sightings
 
