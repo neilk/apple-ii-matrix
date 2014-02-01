@@ -2,6 +2,10 @@
 
 A BASIC program that produces a Matrix-like display on Apple II computers.
 
+![Photo of the code running on an old Apple //e by Scott Beale / Laughing Squid](http://farm9.staticflickr.com/8174/8047518696_521261169f.jpg)
+
+_Photo: [Scott Beale / Laughing Squid](http://laughingsquid.com/)_
+
 If you don't have an old Apple machine or emulator handy, try pasting the source in Joshua Bell's
 [Applesoft BASIC in Javascript](http://www.calormen.com/applesoft/).
 
