@@ -4,7 +4,7 @@ A BASIC program that produces a Matrix-like display on Apple II computers.
 
 ![Photo of the code running on an old Apple //e by Scott Beale / Laughing Squid](http://farm9.staticflickr.com/8174/8047518696_521261169f.jpg)
 
-_Photo: [Scott Beale / Laughing Squid](http://laughingsquid.com/)_
+_Photo: [Scott Beale / Laughing Squid](http://laughingsquid.com/) on [Flickr](http://www.flickr.com/photos/laughingsquid/8047518696/)_ 
 
 If you don't have an old Apple machine or emulator handy, try pasting the source in Joshua Bell's
 [Applesoft BASIC in Javascript](http://www.calormen.com/applesoft/).
@@ -22,8 +22,4 @@ with the help of some other bystanders we got this:
 http://www.flickr.com/photos/brevity/7429579820/
 
 Next, I saw an Apple II at Panic Software in Portland, during the XOXO Festival in September 2012, and decided to 
-type it in. It's been photographed by a number of people since then, including Scott Beale of Laughing Squid:
-
-http://www.flickr.com/photos/laughingsquid/8047518696/
-
-http://instagram.com/p/QSVgQkAT6H/
+type it in. That's where the picture above was taken. 
