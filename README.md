@@ -6,8 +6,11 @@ A BASIC program that produces a Matrix-like display on Apple II computers.
 
 _Photo: [Scott Beale / Laughing Squid](http://laughingsquid.com/) on [Flickr](http://www.flickr.com/photos/laughingsquid/8047518696/)_ 
 
-If you don't have an old Apple machine or emulator handy, try pasting the source in Joshua Bell's
+If you don't have an old Apple machine or emulator handy, try this:
+- copy the [source](https://raw.githubusercontent.com/neilk/apple-ii-matrix/master/MATRIX)
+- paste it into Joshua Bell's
 [Applesoft BASIC in Javascript](http://www.calormen.com/applesoft/).
+- press the Run button
 
 If you do have an Apple or emulator, you need to get to the Apple's BASIC prompt, and then
 type in the lines as shown. There is no text editor; simply typing in a line preceded by a number
