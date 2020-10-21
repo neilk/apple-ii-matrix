@@ -26,3 +26,7 @@ http://www.flickr.com/photos/brevity/7429579820/
 
 Next, I saw an Apple II at Panic Software in Portland, during the XOXO Festival in September 2012, and decided to 
 type it in. That's where the picture above was taken. 
+
+October 21, 2020: The @AppleIIBot account on Twitter will post recordings of an emulator running programs communicated by tweet. I managed to get a version of MATRIX into less than 280 characters, recorded here as MATWEEX
+
+https://twitter.com/NeilKNet/status/1319060653064089600
