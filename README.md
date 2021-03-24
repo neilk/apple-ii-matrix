@@ -30,3 +30,5 @@ type it in. That's where the picture above was taken.
 October 21, 2020: The @AppleIIBot account on Twitter will post recordings of an emulator running programs communicated by tweet. I managed to get a version of MATRIX into less than 280 characters, recorded here as MATWEEX
 
 https://twitter.com/NeilKNet/status/1319060653064089600
+
+March 23, 2021: @bruno185 created a similar program in Apple II assembly, [Apple-II-another-Matrix](https://github.com/bruno185/Apple-II-another-Matrix), and was kind enough to credit this project for the inspiration
