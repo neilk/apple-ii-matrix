@@ -31,4 +31,4 @@ October 21, 2020: The @AppleIIBot account on Twitter will post recordings of an 
 
 https://twitter.com/NeilKNet/status/1319060653064089600
 
-March 23, 2021: @bruno185 created a similar program in Apple II assembly, [Apple-II-another-Matrix](https://github.com/bruno185/Apple-II-another-Matrix), and was kind enough to credit this project for the inspiration
+March 23, 2021: [@bruno185](https://github.com/bruno185) created a similar program in Apple II assembly, [Apple-II-another-Matrix](https://github.com/bruno185/Apple-II-another-Matrix), and was kind enough to credit this project for the inspiration
